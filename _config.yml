@@ -1,3 +1,8 @@
 appname: db.js
 author: Aaron Powell
 link: http://github.com/aaronpowell/db.js
+title: db.js
+description: db.js is a wrapper for IndexedDB to make it easier to work against
+google_analytics: UA-20152461-5
+show_downloads: true
+theme: jekyll-theme-cayman
